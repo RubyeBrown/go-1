@@ -1,4 +1,4 @@
-# A "go" short-link service
+#*A "go" short-link service
 
 ## Background
 The first time I encountered "go" links was at Google. Anyone on the corporate
@@ -50,3 +50,4 @@ Type `go/my-shortcut` and you'll be redirected to the URL.
 
 #### Shorten a URL
 Type `go` and enter the URL.
+ 
